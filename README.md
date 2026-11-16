@@ -2,7 +2,7 @@
 
 Daily is a calm, monochrome habit tracker built as a single HTML file. It combines streaks, a focus timer, one-off tasks, weekly reviews and detailed analytics, and it keeps everything in your browser. There is no server, no account and no tracking.
 
-**Live demo:** `https://YOUR-USERNAME.github.io/YOUR-REPO/` <!-- Replace after deploying -->
+**Live demo:** https://harsh-k-117.github.io/daily-habits/
 
 <!--
 Add screenshots after you deploy, then uncomment:
