@@ -2,7 +2,7 @@
 
 Daily is a calm, monochrome habit tracker built as a single HTML file. It combines streaks, a focus timer, one-off tasks, weekly reviews and detailed analytics, and it keeps everything in your browser. There is no server, no account and no tracking.
 
-**Live demo:** https://harsh-k-117.github.io/daily-habits/
+**Live demo:** `https://YOUR-USERNAME.github.io/YOUR-REPO/` <!-- Replace after deploying -->
 
 <!--
 Add screenshots after you deploy, then uncomment:
@@ -87,6 +87,7 @@ Shortcuts can be turned off in Settings.
 - One self-contained HTML file with inline CSS and vanilla JavaScript. No framework and no build tooling.
 - Geist and Geist Mono via Google Fonts, with system font fallbacks.
 - Light and dark monochrome themes that follow your device setting.
+- Responsive from small phones to wide desktops, with a bottom tab bar on phones and safe-area support for notched devices.
 - Accessibility basics: skip link, semantic landmarks, visible focus states, keyboard support, reduced-motion support and larger tap targets on touch devices.
 - Data is versioned and validated on load and import, and changes sync across open tabs.
 
